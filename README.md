@@ -11,6 +11,16 @@ Hope you enjoy!
             <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg' width="25" height="25" style="border-radius: 5px;">
             <p style="color: white; padding: 5px; margin: 0;">Kotlin</p>
         </div>
+    </td><td style="padding: 5px;">
+        <div style="background-color: #333; width: 200px; height: 50px; padding: 10px;">
+            <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg' width="25" height="25" style="border-radius: 5px;">
+            <p style="color: white; padding: 5px; margin: 0;">Javascript</p>
+        </div>
+    </td><td style="padding: 5px;">
+        <div style="background-color: #333; width: 200px; height: 50px; padding: 10px;">
+            <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg' width="25" height="25" style="border-radius: 5px;">
+            <p style="color: white; padding: 5px; margin: 0;">Python</p>
+        </div>
     </td></tr></table>
 		
 ### Example of an solution: ⚡️
